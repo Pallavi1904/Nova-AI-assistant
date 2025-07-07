@@ -1,6 +1,0 @@
-1. Installed packages:
-   1. pip install speechrecognition pyaudio
-   2. pip install setuptools 
-   3. pip install pyttsx3
-   4. webbrowser (already exist)
-   5. pip install pocketsphinx  # But we used google so np
